@@ -1,5 +1,5 @@
 # terminal-chess-linux
-Simple chess script with basic AI opponent
+Simple chess script in python, with basic AI opponent.
 
 To install: 
 
